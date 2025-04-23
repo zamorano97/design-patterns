@@ -1,4 +1,4 @@
-package com.example.patterns_banking.models;
+package com.example.patterns_banking.models.customer;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;

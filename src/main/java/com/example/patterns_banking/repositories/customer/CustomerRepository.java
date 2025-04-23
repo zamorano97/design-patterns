@@ -1,6 +1,6 @@
-package com.example.patterns_banking.repositories;
+package com.example.patterns_banking.repositories.customer;
 
-import com.example.patterns_banking.models.Customer;
+import com.example.patterns_banking.models.customer.Customer;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

@@ -1,9 +1,8 @@
-package com.example.patterns_banking.services;
+package com.example.patterns_banking.services.customer;
 
-import com.example.patterns_banking.dtos.CustomerDTO;
-import com.example.patterns_banking.models.Customer;
-import com.example.patterns_banking.repositories.CustomerRepository;
-import com.example.patterns_banking.repositories.ICustomerRepository;
+import com.example.patterns_banking.dtos.customer.CustomerDTO;
+import com.example.patterns_banking.models.customer.Customer;
+import com.example.patterns_banking.repositories.customer.CustomerRepository;
 import org.springframework.stereotype.Service;
 
 @Service

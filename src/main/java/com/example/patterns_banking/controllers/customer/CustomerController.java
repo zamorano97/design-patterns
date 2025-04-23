@@ -1,8 +1,8 @@
-package com.example.patterns_banking.controllers;
+package com.example.patterns_banking.controllers.customer;
 
-import com.example.patterns_banking.dtos.CustomerDTO;
-import com.example.patterns_banking.models.Customer;
-import com.example.patterns_banking.services.CustomerService;
+import com.example.patterns_banking.dtos.customer.CustomerDTO;
+import com.example.patterns_banking.models.customer.Customer;
+import com.example.patterns_banking.services.customer.CustomerService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;

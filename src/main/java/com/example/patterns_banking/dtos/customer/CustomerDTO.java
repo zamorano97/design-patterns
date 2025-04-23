@@ -1,4 +1,4 @@
-package com.example.patterns_banking.dtos;
+package com.example.patterns_banking.dtos.customer;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
